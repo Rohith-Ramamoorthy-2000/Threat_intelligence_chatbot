@@ -1,6 +1,6 @@
 # Threat_intelligence_chatbot
 
-Gen AI-Lab:3
+# Gen AI-Lab:3
 # Team member:
 Rohith, Vishruta, Bertilla
 
