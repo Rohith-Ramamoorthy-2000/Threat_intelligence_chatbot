@@ -2,9 +2,7 @@
 
 Gen AI-Lab:3
 # Team member:
-Rohith
-Vishruta 
-Bertilla
+Rohith, Vishruta, Bertilla
 
 # Threat Intelligence Chatbot using RAG
 
